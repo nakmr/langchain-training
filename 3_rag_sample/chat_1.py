@@ -6,6 +6,5 @@ async def on_chat_start():
 
 @cl.on_message
 async def on_message(input_message):
-    # input_message は Message オブジェクトであって、str ではないことに注意
-    print("入力されたメッセージ: " + str(input_message))
+    print("入力されたメッセージ: " + input_message.content)
     await cl.Message(content="こんにちは！").send()
