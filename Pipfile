@@ -12,6 +12,7 @@ tiktoken = "*"
 chromadb = "*"
 chainlit = "*"
 wikipedia = "*"
+bs4 = "*"
 
 [dev-packages]
 

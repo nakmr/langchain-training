@@ -2,8 +2,9 @@
 .vscode
 .chainlit/
 .DS_Store
+chainlit.md
 
 3_rag_sample/sample.pdf
 3_rag_sample/tmp/
-3_rag_sample/chainlit.md
+
 
