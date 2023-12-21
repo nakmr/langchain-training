@@ -13,6 +13,8 @@ chromadb = "*"
 chainlit = "*"
 wikipedia = "*"
 bs4 = "*"
+docarray = "==0.32.1"
+pydantic = "==1.10.8"
 
 [dev-packages]
 
