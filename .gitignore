@@ -2,9 +2,11 @@
 .vscode
 .chainlit/
 .DS_Store
+.env
+
 chainlit.md
 
 3_rag_sample/sample.pdf
 3_rag_sample/tmp/
-
+6_agent/*.txt
 
